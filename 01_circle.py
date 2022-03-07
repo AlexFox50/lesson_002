@@ -11,7 +11,10 @@ radius = 42
 #       точность указывается в функции round()
 #
 if radius >= 0:
-    print('S = ', 3.1415926* radius**2)
+    print('S = ', 3.1415926 * radius ** 2)
+    print((round(5541.7693464, 4)))
+
+
 
 
 
